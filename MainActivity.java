@@ -33,6 +33,13 @@ public class MainActivity extends AppCompatActivity {
         rxjavaTest();
         rxJavaDiffThreadTest();
         rxMapTest();
+        123123123123
+            
+            1231231
+            2
+            3
+            12
+            31
         rxFlatMapTest();
         rxFlatMapTest1();
         Log.i(TAG, Pattern.matches("[1-9]|10", "9.0") + "");
